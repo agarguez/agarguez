@@ -3,7 +3,7 @@
 I’m passionate about botany, ecology, and conservation. I hold an MSc in Biodiversity Conservation Techniques and Ecology and an MEd in Secondary Education Teacher Training.
 Currently, I work at TRAGSATEC within the Natural Environment Department.
 
-🌱 What do I work on?
+#🌱 What do I work on?
 
 I participate in national projects focused on:
 
@@ -12,7 +12,7 @@ I participate in national projects focused on:
 
 My work focuses on enhancing national knowledge of plant species and producing data to support evidence-based management and conservation strategies.
 
-🔍 Interests
+#🔍 Interests
 
 - Conservation biology
 - Applied ecology
