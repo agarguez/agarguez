@@ -12,15 +12,6 @@ I participate in national projects focused on:
 
 My work focuses on enhancing national knowledge of plant species and producing data to support evidence-based management and conservation strategies.
 
-### 🔍 Interests
-
-- Conservation biology
-- Applied ecology
-- Natural resource management
-- Environmental data science
-- Digital tools for environmental analysis
-
-
 <p align="left"> <img src="https://img.shields.io/badge/Botany-🌲-forestgreen" /> <img src="https://img.shields.io/badge/Conservation Biology-🌱-brightgreen" /> <img src="https://img.shields.io/badge/Ecology-🍃-turquoise" /> <img src="https://img.shields.io/badge/Data-📊-blue" /> </p>
 
 <p align="left">
