@@ -23,6 +23,9 @@ My work focuses on enhancing national knowledge of plant species and producing d
 
 <p align="left"> <img src="https://img.shields.io/badge/Botany-🌲-forestgreen" /> <img src="https://img.shields.io/badge/Conservation Biology-🌱-brightgreen" /> <img src="https://img.shields.io/badge/Ecology-🍃-turquoise" /> <img src="https://img.shields.io/badge/Data-📊-blue" /> </p>
 
-<p align="center">
-[![GitHub Follow](https://img.shields.io/github/followers/agarguez?label=Follow&style=social)](https://github.com/agarguez) [![ResearchGate](https://img.shields.io/badge/Follow_on_ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Adrian-Garcia-Rodriguez-3) 
+<p align="left">
+
+[![GitHub Follow](https://img.shields.io/github/followers/agarguez?label=Follow&style=social)](https://github.com/agarguez)
+[![ResearchGate](https://img.shields.io/badge/Follow_on_ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Adrian-Garcia-Rodriguez-3)
+
 </p>
