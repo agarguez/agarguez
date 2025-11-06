@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Adrián, a Biologist
+## 👋 Hi there! I'm Adrián — Botanist & Conservation Biologist
 
 I’m passionate about **botany**, **ecology**, and **conservation**. I hold an MSc in Biodiversity Conservation Techniques and Ecology and an MEd in Secondary Education Teacher Training.
 Currently, I work at TRAGSATEC within the Natural Environment Department.
