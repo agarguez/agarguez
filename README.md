@@ -21,4 +21,4 @@ My work focuses on enhancing national knowledge of plant species and producing d
 - Digital tools for environmental analysis
 
 🧰 GitHub Profile Badges
-<p align="left"> <img src="https://img.shields.io/badge/Biology-🌱-brightgreen" /> <img src="https://img.shields.io/badge/Conservation-🌿-green" /> <img src="https://img.shields.io/badge/Ecology-🧬-yellowgreen" /> <img src="https://img.shields.io/badge/Nature-🌳-forestgreen" /> <img src="https://img.shields.io/badge/Data-📊-blue" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Biology-🌱-brightgreen" /> <img src="https://img.shields.io/badge/Conservation-🌿-green" /> <img src="https://img.shields.io/badge/Ecology-🧬-yellowgreen" /> <img src="https://img.shields.io/badge/Botany-🌿-forestgreen" /> <img src="https://img.shields.io/badge/Data-📊-blue" /> </p>
