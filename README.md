@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi there! I'm Adrián, a Biologist
 
-<!--
-**agarguez/agarguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about botany, ecology, and conservation. I hold an MSc in Biodiversity Conservation Techniques and Ecology and an MEd in Secondary Education Teacher Training.
+Currently, I work at TRAGSATEC within the Natural Environment Department.
 
-Here are some ideas to get you started:
+🌱 What do I work on?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I participate in national projects focused on:
+
+- Monitoring protected flora and invasive alien plant species
+- In situ and ex situ plant conservation
+
+My work focuses on enhancing national knowledge of plant species and producing data to support evidence-based management and conservation strategies.
+
+🔍 Interests
+
+- Conservation biology
+- Applied ecology
+- Natural resource management
+- Environmental data science
+- Digital tools for environmental analysis
+
+🧰 GitHub Profile Badges
+<p align="left"> <img src="https://img.shields.io/badge/Biology-🌱-brightgreen" /> <img src="https://img.shields.io/badge/Conservation-🌿-green" /> <img src="https://img.shields.io/badge/Ecology-🧬-yellowgreen" /> <img src="https://img.shields.io/badge/Nature-🌳-forestgreen" /> <img src="https://img.shields.io/badge/Data-📊-blue" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" /> </p>
