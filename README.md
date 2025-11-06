@@ -21,4 +21,4 @@ My work focuses on enhancing national knowledge of plant species and producing d
 - Digital tools for environmental analysis
 
 
-<p align="left"> <img src="https://img.shields.io/badge/Botany-🌿-forestgreen" /> <img src="https://img.shields.io/badge/Biology-🌱-brightgreen" /> <img src="https://img.shields.io/badge/Conservation-🌿-green" /> <img src="https://img.shields.io/badge/Ecology-🌲-yellowgreen" /> <img src="https://img.shields.io/badge/Data-📊-blue" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Botany-🌿-forestgreen" /> <img src="https://img.shields.io/badge/Biology-🌱-brightgreen" /> <img src="https://img.shields.io/badge/Conservation Biology-🌿-brightgreen" /> <img src="https://img.shields.io/badge/Ecology-🌲-yellowgreen" /> <img src="https://img.shields.io/badge/Data-📊-blue" /> </p>
